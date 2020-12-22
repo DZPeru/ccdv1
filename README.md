@@ -1,6 +1,6 @@
 # Classifier, Counter and Distributor of Trouts - v1
 
-All rights reserved. Coming soon.
+All rights reserved. Perú. Coming soon.
 
 ![1-1](img/1-1.gif)
 
